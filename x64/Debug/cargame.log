@@ -1,0 +1,3 @@
+﻿  cargame.cpp
+D:\cpp\cargame\Header.hpp(92,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  cargame.vcxproj -> D:\cpp\cargame\x64\Debug\cargame.exe

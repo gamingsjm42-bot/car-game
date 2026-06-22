@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+#Author: sjm-gamer
+#cargame.exe
+#Rating=1-5
+export PW_WINE_USE="PROTON_LG_10-28"
+export PW_PREFIX_NAME="DEFAULT"
+export PORTPROTON_NAME="cargame"
+export FILE_DESCRIPTION=""
+export FILE_SHA256SUM="0dcf38b5ac0a5d65b39db2273b136018b90d7046d559b4300dab5a219d2fb527"
+export PW_VULKAN_USE="6"
